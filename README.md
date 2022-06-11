@@ -30,8 +30,6 @@
 I’m a undergraduate computer science student. I am currently in my final year of my graduation. Throughout my undergraduate student time period, I have learnt many skills on different technologies. Each technology I learnt, was with project based learning. So for now, I have learnt C++, JAVA, C#, Kotlin, Python programming languages. Along with that, I have learnt the Android with Kotlin. Moreover, I am currently working on full stack web development, that is MERN stack.  
   
 
-<br/>  
-
 
 ## Rapidfire  
 
@@ -44,9 +42,7 @@ I’m a undergraduate computer science student. I am currently in my final year 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-<br/>  
+- ⚡ Fun fact: I keep night shift swithed on at all times     
 
 
 ## Languages and Tools  
@@ -74,8 +70,7 @@ I’m a undergraduate computer science student. I am currently in my final year 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />  
 </div>  
-
-<br/>  
+ 
 
 
 ## Github Stats  
@@ -91,11 +86,5 @@ I’m a undergraduate computer science student. I am currently in my final year 
 
 <br/>  
 
-  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=abdulwaheedchachar&&style=flat-square)  
-  
-
 <br/>  
