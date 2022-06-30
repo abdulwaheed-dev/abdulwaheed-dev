@@ -27,7 +27,7 @@
 
 
 ### Glad to see you here!  
-I’m a undergraduate computer science student. I am currently in my final year of my graduation. Throughout my undergraduate student time period, I have learnt many skills on different technologies. Each technology I learnt, was with project based learning. So for now, I have learnt C++, JAVA, C#, Kotlin, Python programming languages. Along with that, I have learnt the Android with Kotlin. Moreover, I am currently working on full stack web development, that is MERN stack.  
+I’m a undergraduate computer science student. I am currently in my final year of my graduation. Throughout my undergraduate student time period, I have learnt many skills on different technologies. Each technology I learnt, was with project based learning. So for now, I have learnt C++, JAVA, C#, Kotlin, Flutter and Python programming language. Along with that, I have learnt the Android with Kotlin and Flutter. Moreover, I am currently working on full stack web development, that is MERN stack.  
   
 
 
@@ -73,18 +73,21 @@ I’m a undergraduate computer science student. I am currently in my final year 
  
 
 
-## Github Stats  
+## Github Stats   
+
 <table><tr><td valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdulwaheedchachar&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=abdulwaheedchachar&show_icons=true&theme=dark" align="left"/>
 </td><td valign="top">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwaheedchachar&show_icons=true&theme=dark" align="right"/>
+</td></tr></table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwaheedchachar&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<table><tr><td valign="top">
+<img src="https://metrics.lecoq.io/abdulwaheedchachar" align="left"/>
+</td><td valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwaheedchachar&show_icons=true&theme=dark" align="right"/>
+</td></tr></table>
 
-</td></tr></table>  
-
-<br/>  
+![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=abdulwaheedchachar) 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=abdulwaheedchachar&&style=flat-square)  
 <br/>  
