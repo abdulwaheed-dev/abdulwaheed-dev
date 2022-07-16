@@ -87,7 +87,5 @@ I’m a undergraduate computer science student. I am currently in my final year 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwaheedchachar&show_icons=true&theme=dark" align="right"/>
 </td></tr></table>
 
-![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=abdulwaheedchachar) 
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=abdulwaheedchachar&&style=flat-square)  
 <br/>  
