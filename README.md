@@ -27,7 +27,7 @@
 
 
 ### Glad to see you here!  
-I am highly motivated and energetic who believe in learning by solving challenging tasks. I am undergraduate final year student of Computer Science department on Sindh Endowment Scholarship at Sukkur IBA University. In this time period I have learnt a lot of technical skills. I am holding 3.35 CGPA till now. I am seeking a beginner role to enhance and explore my technical skills gained at Sukkur IBA University. I am eager to perform valuable work using my skills.    
+I am highly motivated and energetic who believe in learning by solving challenging tasks. I am undergraduate final year student of Computer Science department on Sindh Endowment Scholarship at Sukkur IBA University. In this time period I have learnt a lot of technical skills. I love to enhance and explore my technical skills gained at Sukkur IBA University. I am eager to perform valuable work using my skills.    
 
 
 ## Rapidfire  
