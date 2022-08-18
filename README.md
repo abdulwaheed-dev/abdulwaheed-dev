@@ -27,8 +27,7 @@
 
 
 ### Glad to see you here!  
-I’m a undergraduate computer science student. I am currently in my final year of my graduation. Throughout my undergraduate student time period, I have learnt many skills on different technologies. Each technology I learnt, was with project based learning. So for now, I have learnt C++, JAVA, C#, Kotlin, Flutter and Python programming language. Along with that, I have learnt the Android with Kotlin and Flutter. Moreover, I am currently working on full stack web development, that is MERN stack.  
-  
+I am highly motivated and energetic who believe in learning by solving challenging tasks. I am undergraduate final year student of Computer Science department on Sindh Endowment Scholarship at Sukkur IBA University. In this time period I have learnt a lot of technical skills. I am holding 3.35 CGPA till now. I am seeking a beginner role to enhance and explore my technical skills gained at Sukkur IBA University. I am eager to perform valuable work using my skills.    
 
 
 ## Rapidfire  
