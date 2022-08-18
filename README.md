@@ -75,16 +75,16 @@ I am highly motivated and energetic who believe in learning by solving challengi
 ## Github Stats   
 
 <table><tr><td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=abdulwaheedchachar&show_icons=true&theme=dark" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdulwaheed-dev&show_icons=true&theme=dark" align="left"/>
 </td><td valign="top">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwaheedchachar&show_icons=true&theme=dark" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwaheed-dev&show_icons=true&theme=dark" align="right"/>
 </td></tr></table>
 
 <table><tr><td valign="top">
-<img src="https://metrics.lecoq.io/abdulwaheedchachar" align="left"/>
+<img src="https://metrics.lecoq.io/abdulwaheed-dev" align="left"/>
 </td><td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwaheedchachar&show_icons=true&theme=dark" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwaheed-dev&show_icons=true&theme=dark" align="right"/>
 </td></tr></table>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=abdulwaheedchachar&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=abdulwaheed-dev&&style=flat-square)  
 <br/>  
